@@ -1,0 +1,11 @@
+# Site settings
+title: "YeJi Yun- UX/UI designer + Cognitive psychology"
+logo: "/img/logo/nelogo_topbar.svg"
+description: "Hi, Nice to meet you. I'm YeJi.<br> check this out!"
+baseurl: "https://github.com/yejiyun/portfolio-website.git"
+url: "localhost://4000" 
+github_username: "yejiyun"
+
+# Build settings
+markdown: redcarpet
+exclude: ['Readme.md']
