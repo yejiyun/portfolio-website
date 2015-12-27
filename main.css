@@ -349,6 +349,20 @@ pre {
   font: inherit;
   vertical-align: baseline; }
 
+.writing_item{
+  -webkit-box-flex:3;
+  flex:3;
+  line-height: 1.5;
+  font-size: 18px;
+  color: #111;
+  padding: 100px;
+  background-color: #ffffff;
+  box-shadow: 3px 3px 0px 0px rgba(55, 101, 137, 0.04);
+  border-radius: 2px;
+  font: inherit;
+  vertical-align: baseline;
+}
+
 /**
  * Syntax highlighting styles
  */
