@@ -2,7 +2,7 @@
 title: "YeJi Yun- UX/UI designer + Cognitive psychology"
 logo: "/img/logo/nelogo_topbar.svg"
 description: "Hi, Nice to meet you. I'm YeJi.<br> check this out!"
-baseurl: "https://github.com/yejiyun/portfolio-website.git"
+baseurl: /portfolio-website
 url: "localhost://4000" 
 github_username: "yejiyun"
 
